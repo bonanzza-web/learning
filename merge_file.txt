@@ -1,1 +1,1 @@
-This is a new file for merge and no delete
+This is a new file for merge and delete now
